@@ -1,0 +1,34 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: bisque;
+    text-align: center;
+    height: 100vh;
+}
+
+.container  {
+    max-width: 80%;
+    margin: auto;
+
+}
+
+button {
+    border: none;
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    border-radius: 4px;
+    color: white;
+}
+
+#increment-btn {
+    background-color: darkblue;
+}
+
+#save-btn {
+    background-color: darkgreen;
+}
+
+/* #increment-btn:hover {
+    background-color: black;
+} */
